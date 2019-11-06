@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933697515863",
+    "firebase_url": "https://projectsuperman-eda70.firebaseio.com",
+    "project_id": "projectsuperman-eda70",
+    "storage_bucket": "projectsuperman-eda70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933697515863:android:7788cfc8362f3e9c7a0e12",
+        "android_client_info": {
+          "package_name": "org.android.jplas.projectsuperman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933697515863-4dias69ppmivcdenit92s17qarv8qdb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.android.jplas.projectsuperman",
+            "certificate_hash": "ee67a5fb6b75042ce2b6a7fd5b6076d8f63bed97"
+          }
+        },
+        {
+          "client_id": "933697515863-4v7cnj4j7dhc281gbjrnrcddt0us233b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4OV_Z609gLhlMhoO_jw_Q4jiVMlfynlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933697515863-4v7cnj4j7dhc281gbjrnrcddt0us233b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
